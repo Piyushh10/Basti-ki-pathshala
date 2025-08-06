@@ -59,17 +59,18 @@ The app displays impact data from Basti Ki Pathshala Foundation:
 
 ## 📱 Screenshots
 
-![Home Screen](app/src/main/res/drawable/img.png)
-
-![Volunteer Registration](app/src/main/res/drawable/img_1.png)
-
-![About Us Section](app/src/main/res/drawable/img_2.png)
-
-![Navigation](app/src/main/res/drawable/img_3.png)
-
-![Impact Statistics](app/src/main/res/drawable/img_4.png)
-
-![Contact Information](app/src/main/res/drawable/img_5.png)
+<table>
+<tr>
+<td><img src="app/src/main/res/drawable/img.png" width="200" alt="Home Screen"></td>
+<td><img src="app/src/main/res/drawable/img_1.png" width="200" alt="Volunteer Registration"></td>
+<td><img src="app/src/main/res/drawable/img_2.png" width="200" alt="About Us Section"></td>
+</tr>
+<tr>
+<td><img src="app/src/main/res/drawable/img_3.png" width="200" alt="Navigation"></td>
+<td><img src="app/src/main/res/drawable/img_4.png" width="200" alt="Impact Statistics"></td>
+<td><img src="app/src/main/res/drawable/img_5.png" width="200" alt="Contact Information"></td>
+</tr>
+</table>
 
 ## 🎨 Design Features
 
