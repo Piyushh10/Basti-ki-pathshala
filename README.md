@@ -23,15 +23,6 @@ A modern Android application built with Jetpack Compose for **Basti Ki Pathshala
 - **Target SDK**: API 35 (Android 15)
 - **Build System**: Gradle with Kotlin DSL
 
-## 📊 Impact Statistics
-
-The app displays impact data from Basti Ki Pathshala Foundation:
-
-- **31,245** Lives Changed
-- **28,976** Meals Served
-- **19,854** Interns
-- **10,989** Supporters
-
 
 ## 📱 Screenshots
 
