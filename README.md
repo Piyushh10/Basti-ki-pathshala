@@ -25,7 +25,7 @@ A modern Android application built with Jetpack Compose for **Basti Ki Pathshala
 
 ## 📊 Impact Statistics
 
-The app displays real impact data from Basti Ki Pathshala Foundation:
+The app displays impact data from Basti Ki Pathshala Foundation:
 
 - **31,245** Lives Changed
 - **28,976** Meals Served
@@ -91,64 +91,7 @@ The app displays real impact data from Basti Ki Pathshala Foundation:
 - **Accessibility**: Screen reader support and proper content descriptions
 - **Smooth Navigation**: Bottom navigation with smooth transitions
 
-## 📋 Project Structure
-
-```
-app/src/main/
-├── java/com/example/bastikipathshalaapp/
-│   ├── MainActivity.kt          # Main app entry point
-│   └── ui/theme/               # Theme and styling
-├── res/
-│   ├── drawable/
-│   │   └── ngo_logo.png        # NGO logo
-│   ├── values/
-│   │   ├── strings.xml         # String resources
-│   │   ├── colors.xml          # Color definitions
-│   │   └── themes.xml          # Theme definitions
-│   └── mipmap-*/               # App icons
-└── AndroidManifest.xml         # App configuration
-```
-
-## 🔧 Configuration
-
-### App Information
-- **Package Name**: `com.example.bastikipathshalaapp`
-- **App Name**: "Basti Ki Pathshala"
-- **Version**: 1.0
-- **Target SDK**: API 35
-
 ### Dependencies
 - **Navigation Compose**: 2.7.7
 - **Material 3**: Latest from Compose BOM
 - **Activity Compose**: 1.10.1
-
-## 📞 Contact Information
-
-**Basti Ki Pathshala Foundation**
-- **Phone**: 1-555-123-4567
-- **Toll Free**: 1-800-123-4567
-- **Address**: 304 North Cardinal St., Dorchester Center, MA 02124
-- **Email**: info@bastikipathshala.org
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Basti Ki Pathshala Foundation** for their mission and impact
-- **Jetpack Compose** team for the modern UI framework
-- **Material Design** team for the design system
-- **Android Developer Community** for continuous support
-
----
-
-**Built with ❤️ for education and community development** 
