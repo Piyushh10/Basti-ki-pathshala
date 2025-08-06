@@ -57,31 +57,19 @@ The app displays impact data from Basti Ki Pathshala Foundation:
    - Click the "Run" button (green play icon)
    - Select your target device and click "OK"
 
-## 📱 App Screenshots
+## 📱 Screenshots
 
-### Home Screen
-[Screenshot 1: Home Screen with NGO logo, name, and mission]
+![Home Screen](app/src/main/res/drawable/img.png)
 
-### Volunteer Registration
-[Screenshot 2: Volunteer form with name, contact, and city fields]
+![Volunteer Registration](app/src/main/res/drawable/img_1.png)
 
-### About Us Section
-[Screenshot 3: About Us page with foundation story]
+![About Us Section](app/src/main/res/drawable/img_2.png)
 
-### Navigation
-[Screenshot 4: Bottom navigation bar with three tabs]
+![Navigation](app/src/main/res/drawable/img_3.png)
 
-### Impact Statistics
-[Screenshot 5: Impact statistics showing lives changed, meals served, etc.]
+![Impact Statistics](app/src/main/res/drawable/img_4.png)
 
-### Contact Information
-[Screenshot 6: Contact details with phone numbers and address]
-
-### Form Validation
-[Screenshot 7: Form validation and success dialog]
-
-### App Icon & Branding
-[Screenshot 8: App icon and overall branding]
+![Contact Information](app/src/main/res/drawable/img_5.png)
 
 ## 🎨 Design Features
 
