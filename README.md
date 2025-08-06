@@ -32,30 +32,6 @@ The app displays impact data from Basti Ki Pathshala Foundation:
 - **19,854** Interns
 - **10,989** Supporters
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Android Studio Arctic Fox or later
-- Android SDK API 24+
-- Kotlin 2.0.0+
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/BastiKiPathshalaApp.git
-   ```
-
-2. **Open in Android Studio**
-   - Launch Android Studio
-   - Open the project folder
-   - Wait for Gradle sync to complete
-
-3. **Run the app**
-   - Connect an Android device or start an emulator
-   - Click the "Run" button (green play icon)
-   - Select your target device and click "OK"
 
 ## 📱 Screenshots
 
